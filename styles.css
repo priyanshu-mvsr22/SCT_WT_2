@@ -1,0 +1,7 @@
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #f0f2f5;
+}
+.stopwatch-display {
+    font-variant-numeric: tabular-nums;
+}
